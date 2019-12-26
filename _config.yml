@@ -112,7 +112,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**노력**하는 개발자가 되자."
   location         : "전라북도 전주"
-  email            : tkdqja4164@naver.com
+  email            : "tkdqja4164@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
