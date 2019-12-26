@@ -17,11 +17,11 @@ remote_theme : mmistakes/minimal-mistakes
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "상붐의 기술 블로그"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "2019-12-26~" # site tagline that appears below site title in masthead
 name                     : "Your Name"
-description              : "An amazing website."
+description              : "기술 블로그입니다."
 url                      : "https://fdsfdsg.github.io" # the base hostname & protocol for your site e.g. 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,11 +108,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "상붐"
+  name             : "sangbeom park(24)"
   avatar           : "/assets/images/123.jpg"
-  bio              : "끊임없는 **노력**"
+  bio              : "**노력**하는 초보개발자"
   location         : "전라북도 전주"
-  email            :
+  email            : "tkdqja4164@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -128,7 +128,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/fdsfdsg"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
