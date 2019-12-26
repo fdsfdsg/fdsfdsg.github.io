@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "상붐's blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+subtitle                 : 2019-12-26 ~  # site tagline that appears below site title in masthead
+name                     : "Y"
+description              : "초보개발자 웹사이트"
 url                      : "https://fdsfdsg.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,11 +108,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "상붐"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "끊임없이 떨어지는 물방울이 바위를 뚫는다. **노력**하는 사람이되자."
+  location         : "전라북도 전주"
+  email            : tkdqja4164@naver.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
