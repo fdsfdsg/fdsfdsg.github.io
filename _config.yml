@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 remote_theme : mmistakes/minimal-mistakes
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "상붐의 기술 블로그"
 title_separator          : "-"
 subtitle                 : "2019-12-26~" # site tagline that appears below site title in masthead
@@ -108,10 +108,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "sangbeom park(24)"
+  name             : "sangbeom park"
   avatar           : "/assets/images/123.jpg"
   bio              : "**노력**하는 초보개발자"
-  location         : "전라북도 전주"
+  location         : "전북대학교"
   email            : "tkdqja4164@naver.com"
   links:
     - label: "Email"
