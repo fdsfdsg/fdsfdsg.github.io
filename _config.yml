@@ -108,8 +108,8 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "상붐"
+  avatar           : "/assets/images/123.jpg"
   bio              : "**노력**하는 개발자가 되자."
   location         : "전라북도 전주"
   email            : "tkdqja4164@naver.com"
