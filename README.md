@@ -62,4 +62,4 @@ jekyll의 디렉토리 구조는 다음과 같다. 공식사이트의 내용에 
 
 다시 말하면 jekyll은 시작될 때, _site를 제외한 폴더에서 사이트 구성에 필요한 자료를 가져온다. _include에서 사이트 모듈 정보를 불러오고, _layout에서 모듈을 조합하고, _post에서 사이트 본문을 불러온다. ~~ 마지막으로 _site폴더에 진짜 사이트 내용, html코드를 생성한다. 이후에 사이트에 요청이 들어올 때, _site폴더에서 내용을 찾아 응답하는 방식이다.
 
-![출처](https://andole87.github.io/web/making-themeof-minimal-mistakes-2/#)
+[출처](https://andole87.github.io/web/making-themeof-minimal-mistakes-2/#)
