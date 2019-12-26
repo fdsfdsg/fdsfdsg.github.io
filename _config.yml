@@ -108,15 +108,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "상붐"
+  name             : ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "끊임없이 떨어지는 물방울이 바위를 뚫는다. **노력**하는 사람이되자."
+  bio              : "**노력**하는 개발자가 되자."
   location         : "전라북도 전주"
   email            : tkdqja4164@naver.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      # url: mailto:tkdqja4164@naver.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -128,10 +128,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      # url: "https://github.com/fdsfdsg"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: "https://instagram.com/sang_booom"
 
 # Site Footer
 footer:
@@ -153,7 +153,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      # url: "https://instagram.com/sang_booom"
 
 
 # Reading Files
