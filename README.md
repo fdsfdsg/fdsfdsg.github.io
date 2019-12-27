@@ -65,3 +65,5 @@ jekyll의 디렉토리 구조는 다음과 같다. 공식사이트의 내용에 
 [출처](https://andole87.github.io/web/making-themeof-minimal-mistakes-2/#)
 
 [mmistakes thema guide](https://mmistakes.github.io/minimal-mistakes/docs/structure/)
+
+[mmistakes thema 깃허브](https://github.com/mmistakes/minimal-mistakes)
