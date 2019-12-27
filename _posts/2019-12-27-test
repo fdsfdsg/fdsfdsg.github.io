@@ -1,0 +1,14 @@
+---
+published: true
+layout: "archive"        ## "splash"
+title: test         ## 포스트 제목
+category: test1 test2      ## 포스트 카테고리
+tags: 개발일지 개발블로그 기술블로그          ## 포스트 태그
+comments: true      ## 댓글 기능
+---
+test
+
+```javascipt
+console.log("123123");
+alert("안녕하세요");
+```
